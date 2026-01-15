@@ -1,0 +1,8 @@
+{
+    "item_list.title": "クランプするブレンドシェイプ",
+    "stop_previewing.label": "プレビューを停止",
+    "warning.no_renderer": "同じゲームオブジェクトに Skinned Mesh Renderer が見つかりません。",
+    "warning.no_mesh": "Skinned Mesh Renderer にメッシュが見つかりません。",
+    "warning.no_blendshape": "Skinned Mesh Renderer にブレンドシェイプが見つかりません。",
+    "blendshape_popup.no_blendshape": "ブレンドシェイプなし"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "LuiStudio.Utilities.BlendShapeClamper.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:62ced99b048af7f4d8dfe4bed8373d76",
+        "GUID:54cd68bcebfeb3a4396532c35cc916d5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "BSC_MA_1_13_0"
+    ],
+    "versionDefines": [
+        {
+            "name": "nadena.dev.modular-avatar",
+            "expression": "1.13.0",
+            "define": "BSC_MA_1_13_0"
+        }
+    ],
+    "noEngineReferences": false
+}

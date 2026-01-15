@@ -1,0 +1,8 @@
+{
+    "item_list.title": "要限制的 BlendShape",
+    "stop_previewing.label": "停止预览",
+    "warning.no_renderer": "在同一 GameObject 中未找到 Skinned Mesh Renderer。",
+    "warning.no_mesh": "Skinned Mesh Renderer 中未找到网格。",
+    "warning.no_blendshape": "Skinned Mesh Renderer 中未找到 BlendShape。",
+    "blendshape_popup.no_blendshape": "无 BlendShape"
+}

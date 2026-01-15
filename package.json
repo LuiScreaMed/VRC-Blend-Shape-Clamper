@@ -1,22 +1,22 @@
 {
-  "name": "dev.sleightly.template",
-  "displayName": "JS-Template",
-  "version": "0.0.0",
-  "description": "A VPM Package Template",
-  "url": "https://github.com/JustSleightly/JS-Template",
+  "name": "com.luistudio.blend-shape-clamper",
+  "displayName": "Blend Shape Clamper",
+  "version": "1.0.0",
+  "description": "A NDMF plugin that non-destructively clamps blendshapes.",
+  "url": "https://github.com/LuiScreaMed/VRC-Blend-Shape-Clamper",
   "vpmDependencies": {
-    "com.vrchat.avatars": "^3.8.0"
+    "com.vrchat.avatars": "^3.9.0",
+    "nadena.dev.modular-avatar": "^1.13.0"
   },
   "type": "tool",
   "keywords": [
-    "JustSleightly",
-    "Sleightly",
+    "LuiStudio",
+    "Blendshape",
     "VRChat",
     "Template"
   ],
   "author": {
-    "name": "JustSleightly",
-    "email": "just@sleightly.dev",
-    "url": "https://just.sleightly.dev"
+    "name": "LuiStudio",
+    "url": "https://luistudio.booth.pm/"
   }
 }

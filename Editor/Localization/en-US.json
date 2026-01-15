@@ -1,0 +1,8 @@
+{
+    "item_list.title": "Blendshapes to clamp",
+    "stop_previewing.label": "Stop Previewing",
+    "warning.no_renderer": "No skinned mesh renderer found in the same game object.",
+    "warning.no_mesh": "No mesh found in the skinned mesh renderer.",
+    "warning.no_blendshape": "No blend shape found in the skinned mesh renderer.",
+    "blendshape_popup.no_blendshape": "No Blendshape"
+}
